@@ -3,4 +3,4 @@ Build backend API for bookshelf with JavaScript
 
 
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://drive.google.com/uc?export=view&id=1I55vc8Vq1KszLr0UR-5-nCnTw3l8M0af)
